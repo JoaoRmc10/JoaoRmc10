@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o João Rodrigues
 
-<!--
-**JoaoRmc10/JoaoRmc10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou direcionando minha carreira para desenvolvimento backend.
 
-Here are some ideas to get you started:
+Atualmente estudo e desenvolvo projetos utilizando JavaScript, TypeScript, SQL, APIs e automações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- JavaScript
+- TypeScript
+- SQL
+- Node.js
+- APIs REST
+- Git e GitHub
+- n8n
+- PostgreSQL
+
+## Atualmente estudando
+
+- NestJS
+- Docker
+- PostgreSQL
+- Microsserviços
+- WebSockets
+- AWS
+
+## Projetos
+
+Estou desenvolvendo projetos backend com foco em APIs, bancos de dados e automação de processos.
+
+## Objetivo
+
+Busco minha primeira oportunidade profissional na área de desenvolvimento, especialmente como Backend Developer Júnior.
+
+## Contato
+
+LinkedIn: www.linkedin.com/in/joao-victor-rodrigues-293578351
